@@ -1,5 +1,3 @@
-Here is the updated README file with the corrected instructions for downloading the dataset and saving it properly within the project directory:
-
 ---
 
 # Financial Fraud Detection System
@@ -35,7 +33,7 @@ Financial fraud detection is a critical area in the financial sector. Early dete
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/LT2-SALAM/financial-fraud-detection-system.git
+    git clone https://github.com/LT2-SALAM/Fraud-detection-system-using-maching-learning-models.git
     ```
 
 2. Navigate to the project directory:
